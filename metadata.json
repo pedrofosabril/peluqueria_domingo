@@ -1,0 +1,6 @@
+{
+  "name": "Stitch Design Workspace",
+  "description": "Turn your Google Stitch AI designs, wireframes, and prototypes into fully interactive web applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
